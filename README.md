@@ -1,2 +1,2 @@
 # test-repo-git
-hi
+hi2
